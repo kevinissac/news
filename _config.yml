@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Kevin Issac Newsroom
-email:       ''
+title:       Newsroom
+email:       'support@kevinissac.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://news.kevinissac.com/' # The base hostname & protocol for your site
