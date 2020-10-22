@@ -1,13 +1,11 @@
 ---
 layout: post
-title: If you have an opportunity to use your voice you should use it all
-tags: [frontpage, jekyll, blog]
+title: Introducing The Testament Bible App
+tags: [Release]
 image: '/images/posts/7.jpg'
 ---
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
-
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
+Punalur, Kollam - Kevin Issac Company today announced its brand new Bible App called The Testament Bible, which will be available to Android users on October 30, 2020. The Bible app comes with lots of interesting features like ability Highlight and to add notes, and manage it under individual Notebooks. Currently the app is undergoing beta testing which is available for everyone to test it. It also has its own store where users can download different Bible Translations and Versions for free. 
 
 ##### Todo
 
