@@ -13,7 +13,7 @@ layout: default
     <div class='o-grid__col'>
       <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
         
-        <div class='c-tags'>
+        <div class='c-tags u-text-center'>
           {% for tag in page.tags %}
             <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
           {% endfor %}
@@ -28,14 +28,8 @@ layout: default
 
           {{ content }}
         </div>
-
-        <div class='c-tags'>
-          {% for tag in page.tags %}
-            <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
-          {% endfor %}
-        </div>
-
         <hr>
+       
       </article>
     </div>
   </div>
