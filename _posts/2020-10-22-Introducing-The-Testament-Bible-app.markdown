@@ -2,7 +2,7 @@
 layout: post
 title: Introducing The Testament Bible App
 tags: [Release]
-image: '/images/posts/7.jpg'
+image: '/images/page/banner.png'
 ---
 
 Punalur, Kollam - Kevin Issac Company today announced its brand new Bible App called The Testament Bible, which will be available to Android users on October 30, 2020. The Bible app comes with lots of interesting features like ability Highlight and to add notes, and manage it under individual Notebooks. Currently the app is undergoing beta testing which is available for everyone to test it. It also has its own store where users can download different Bible Translations and Versions for free. 
